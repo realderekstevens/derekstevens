@@ -1,5 +1,5 @@
 title = 'Derek Stevens'
-theme = 'poison'
+theme = ''
 baseURL = "/"
 languageCode = "en-us"
 paginate = 10

@@ -1,0 +1,6 @@
+{{ $reviews := site.Data.reviews }}
+{{ range $reviews }}
+  {{ if eq .product_id "77777" }}
+    {{ .rating }}
+  {{ end }}
+{{ end }}

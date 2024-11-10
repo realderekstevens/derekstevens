@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Derek Stevens</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Derek Stevens</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UMS</title>
+      <link>//localhost:1313/posts/nice/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/nice/</guid>
+      <description>&lt;p&gt;{{ $productlist := site.Data.productlist }}&#xA;{{ range $productlist.products }}&#xA;{{ if eq .title &amp;ldquo;Hugo Hula Hoop&amp;rdquo; }}&#xA;{{ range .variants }}&#xA;{{ .price }}&#xA;{{ end }}&#xA;{{ end }}&#xA;{{ end }}&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;&#xA;&lt;p&gt;Licensed insurance agent based out of Tucson, Arizona.&lt;/p&gt;&#xA;&lt;h3 id=&#34;licensed-to-sell&#34;&gt;Licensed to Sell:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Home Insurance&lt;/li&gt;&#xA;&lt;li&gt;Auto Insurance&lt;/li&gt;&#xA;&lt;li&gt;Life Insurance&lt;/li&gt;&#xA;&lt;li&gt;Commercial Insurance&lt;/li&gt;&#xA;&lt;li&gt;Health Insurance&lt;/li&gt;&#xA;&lt;li&gt;Annuities Retirement Income Planning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;current-personal-activities&#34;&gt;Current personal activities&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hiking in the desert&lt;/li&gt;&#xA;&lt;li&gt;Bash/Go programming language&lt;/li&gt;&#xA;&lt;li&gt;Japanese car maintance&lt;/li&gt;&#xA;&lt;li&gt;Linux (Arch)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;general-experience&#34;&gt;General Experience&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cultivating strong relationships with clients by providing excellent customer service and following up on claims &amp;amp; inquiries.&lt;/li&gt;&#xA;&lt;li&gt;Ensuring that customers are satisfied with the products and services they receive.&lt;/li&gt;&#xA;&lt;li&gt;Providing the best possible coverage to clients.&lt;/li&gt;&#xA;&lt;li&gt;Implemented customer service strategies to ensure customer satisfaction.&lt;/li&gt;&#xA;&lt;li&gt;Successfully sold over 800 insurance policies to new and existing clients.&lt;/li&gt;&#xA;&lt;li&gt;Proactively identified potential risks and provided tailored insurance solutions to meet customer needs.&lt;/li&gt;&#xA;&lt;li&gt;Developing strong relationships with customers to increase retention and referrals.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;medicare-policy-reviews&#34;&gt;Medicare Policy Reviews&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Welcome to Medicare meetings (turning 65).&lt;/li&gt;&#xA;&lt;li&gt;Advise on Social Security deductions for A &amp;amp; B.&lt;/li&gt;&#xA;&lt;li&gt;Ensuring Medicare Part A covers your hospital stay, care in a skilled nursing facility, hospice care, home health care, psychiatric hospital admittance.&lt;/li&gt;&#xA;&lt;li&gt;Ensuring Medicare Part B covers your private doctor, wheelchair, oxygen treatments, hospital outpatient, clinic, chemotherapy, chiropractor, and acupuncture.&lt;/li&gt;&#xA;&lt;li&gt;Ensuring Medicare Part D covers all your prescription medications&lt;/li&gt;&#xA;&lt;li&gt;Ensuring your Medicare Supplemental provides as much value as possible given the level you are at.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;homeowners-policy-reviews&#34;&gt;Homeowners Policy Reviews&lt;/h3&gt;&#xA;&lt;h3 id=&#34;automotive-insurance-policy-reviews&#34;&gt;Automotive Insurance Policy Reviews&lt;/h3&gt;&#xA;&lt;p&gt;Medicare part D perscription payment plans&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
